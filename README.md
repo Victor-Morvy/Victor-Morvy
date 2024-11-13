@@ -6,4 +6,4 @@
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Morvy&layout=compact&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Victor-Morvy&theme=onedark)
